@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="Maman15b.jnlp">
+  <information>
+    <title>Maman15b</title>
+    <vendor>abargel_ido</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="Maman15b.jar" size="6588" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="800" height="600" main-class="maman15b.Maman15b"  name="Maman15b" />
+  <update check="always"/>
+</jnlp>
